@@ -1,0 +1,499 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        53.08136749267578,
+        157.37921142578125,
+        41.734066009521484
+      ],
+      "min": [
+        -57.622467041015625,
+        66.89855194091797,
+        -26.929475784301758
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999568462371826,
+        0.9999473690986633,
+        0.9999805092811584
+      ],
+      "min": [
+        -0.9999568462371826,
+        -0.9999990463256836,
+        -0.999993622303009
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999988079071045,
+        0.9459638595581055
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 367836,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 49639,
+      "max": [
+        57.622467041015625,
+        157.37921142578125,
+        42.26686477661133
+      ],
+      "min": [
+        -42.85953140258789,
+        82.88773345947266,
+        -19.912744522094727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2168436,
+      "componentType": 5126,
+      "count": 49639,
+      "max": [
+        0.9998721480369568,
+        0.9999619722366333,
+        0.9999830722808838
+      ],
+      "min": [
+        -0.999867856502533,
+        -0.9999558925628662,
+        -0.9999470710754395
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 49639,
+      "max": [
+        0.9924002885818481,
+        0.9923096895217896
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1471344,
+      "componentType": 5125,
+      "count": 273156,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2764104,
+      "componentType": 5126,
+      "count": 5358,
+      "max": [
+        70.51216125488281,
+        63.3758430480957,
+        35.14927291870117
+      ],
+      "min": [
+        -66.97093963623047,
+        0.03151702880859375,
+        -76.07504272460938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2828400,
+      "componentType": 5126,
+      "count": 5358,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 921368,
+      "componentType": 5126,
+      "count": 5358,
+      "max": [
+        0.997881293296814,
+        0.9923098683357239
+      ],
+      "min": [
+        1.6763806343078613e-08,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2563968,
+      "componentType": 5125,
+      "count": 28452,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2892696,
+      "componentType": 5126,
+      "count": 36720,
+      "max": [
+        23.409683227539063,
+        77.59492492675781,
+        20.413175582885742
+      ],
+      "min": [
+        -23.409683227539063,
+        3.0095672607421875,
+        -64.81096649169922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3333336,
+      "componentType": 5126,
+      "count": 36720,
+      "max": [
+        0.9999886155128479,
+        1.0,
+        0.9999955892562866
+      ],
+      "min": [
+        -0.9999886155128479,
+        -1.0,
+        -0.9999626278877258
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 964232,
+      "componentType": 5126,
+      "count": 36720,
+      "max": [
+        0.9840958714485168,
+        0.9923096895217896
+      ],
+      "min": [
+        0.0,
+        0.02530227228999138
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2677776,
+      "componentType": 5125,
+      "count": 210600,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kiiztie (https://sketchfab.com/kiiztie)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/christmas-cute-reindeer-4252a63ee1dd40c6a78c698cf0d3a313",
+      "title": "Christmas cute reindeer"
+    },
+    "generator": "Sketchfab-14.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3520176,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1257992,
+      "byteOffset": 3520176,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3773976,
+      "byteOffset": 4778168,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8552144,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Deer_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Deer_emissive.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Deer",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Head_Deer_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Head_Deer_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Prop_Deer_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Body_Deer_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Christmas cute reindeer.fbx"
+    },
+    {
+      "children": [
+        3,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.9808587797607262,
+        -0.16809857399652714,
+        -0.0982798228866603,
+        0.0,
+        0.1777495699574884,
+        0.9790396117381838,
+        0.09943102648305653,
+        0.0,
+        0.07950562587784064,
+        -0.11499699156012928,
+        0.9901790481452798,
+        0.0,
+        -12.250085830688477,
+        1.8204219341278076,
+        -6.659330368041992,
+        1.0
+      ],
+      "name": "Head"
+    },
+    {
+      "mesh": 0,
+      "name": "Head_Deer_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Head_Deer_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Prop"
+    },
+    {
+      "mesh": 2,
+      "name": "Prop_Deer_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Body"
+    },
+    {
+      "mesh": 3,
+      "name": "Body_Deer_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
